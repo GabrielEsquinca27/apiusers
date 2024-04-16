@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fname": "Alfredo",
+      "lname": "Barrera Flores",
+      "phone": "9613028990",
+      "username": "alfred04",
+      "password": "137393"
+    },
+    {
+      "id": "2",
+      "fname": "Luis",
+      "lname": "Castilla Santana",
+      "phone": "9615404342",
+      "username": "luisito27",
+      "password": "30455"
+    },
+    {
+      "id": "3",
+      "fname": "Mario",
+      "lname": "Cadena Palacios",
+      "phone": "9611004377",
+      "username": "marcad140",
+      "password": "12345"
+    },
+    {
+      "id": "4",
+      "fname": "Juan",
+      "lname": "Esquinca Vera",
+      "phone": "2345671902",
+      "username": "Juanito80",
+      "password": "34561"
+    },
+    {
+      "id": "5",
+      "fname": "Miguel",
+      "lname": "Pérez Salazar",
+      "phone": "1234567891",
+      "username": "Miguelito33",
+      "password": "1234"
+    },
+    {
+      "id": "6",
+      "fname": "Gabriel",
+      "lname": "Palacios Espinoza",
+      "phone": "2345671950",
+      "username": "Gabriel221",
+      "password": "137393"
+    },
+    {
+      "id": "7",
+      "fname": "Daniel",
+      "lname": "Palacios Espinoza",
+      "phone": "1234567890",
+      "username": "Bani22",
+      "password": "4444"
+    }
+  ]
+}
